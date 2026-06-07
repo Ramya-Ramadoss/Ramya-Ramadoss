@@ -89,7 +89,22 @@ Become an AI/ML Engineer and Data Analyst capable of building intelligent system
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode)
 
 ---
+## 🎯 What I'm Working Towards
 
+- Building practical AI applications that solve real-world problems
+- Strengthening my skills in Machine Learning and Data Analytics
+- Learning LLM application development and agent-based systems
+- Contributing to impactful projects and research initiatives
+- Preparing for opportunities in AI/ML Engineering and Data Analytics
+
+---
+## 💭 My Approach
+
+I believe the best way to learn technology is by building.
+
+Every project is an opportunity to improve problem-solving skills, understand systems more deeply, and create solutions that deliver real value.
+
+---
 # 🌟 Featured Projects
 
 ## 📌 Employee Salary Prediction
