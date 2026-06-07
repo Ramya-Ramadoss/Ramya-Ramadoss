@@ -137,17 +137,6 @@ Electron.js • JavaScript • Gemini API
 
 ---
 
-
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight"/>
-
-</p>
-
----
-
 # 🏆 Achievements
 
 - Hackathon Participant
