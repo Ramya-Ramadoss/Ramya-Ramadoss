@@ -177,11 +177,10 @@ https://www.linkedin.com/in/ramyaramadoss576/
 
 ## 🔥 GitHub Streak
 
-<p align="center">
 ![GitHub Streak](https://streak-stats.demolab.com?user=Ramya-Ramadoss&theme=tokyonight)
-</p>
 
 ---
+
 ## 🏅 Certifications
 
 - Deloitte Technology Virtual Experience
