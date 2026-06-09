@@ -173,13 +173,6 @@ https://www.linkedin.com/in/ramyaramadoss576/
 
 🌐 Portfolio:
 
-
----
-## 📊 GitHub Stats
-
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ramya-Ramadoss&theme=tokyonight" />
-</p>
 ---
 
 ## 🔥 GitHub Streak
