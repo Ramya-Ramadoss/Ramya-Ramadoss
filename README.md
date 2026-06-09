@@ -183,9 +183,17 @@ https://www.linkedin.com/in/ramyaramadoss576/
 
 ---
 
+
 ## 📊 GitHub Stats
 
-![Ramya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ramya-Ramadoss&show_icons=true&theme=tokyonight)
+![Ramya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ramya-Ramadoss&show_icons=true&theme=tokyonight)
+
+
+---
+
+## 🔥 GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Ramya-Ramadoss&theme=tokyonight)
 
 ---
 
@@ -194,14 +202,6 @@ https://www.linkedin.com/in/ramyaramadoss576/
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ramya-Ramadoss&layout=compact&theme=tokyonight)
 
 ---
-## 🏆 GitHub Trophies
-
-<p align="center">
-![trophy](https://github-profile-trophy.vercel.app/?username=Ramya-Ramadoss&theme=tokyonight&row=1&column=7)
-</p>
-
----
-
 ## 🏅 Certifications
 
 - Deloitte Technology Virtual Experience
