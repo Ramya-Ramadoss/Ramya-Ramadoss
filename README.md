@@ -182,6 +182,13 @@ https://www.linkedin.com/in/ramyaramadoss576/
 </p>
 
 ---
+
+## 📊 GitHub Stats
+
+![Ramya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ramya-Ramadoss&show_icons=true&theme=tokyonight)
+
+---
+
 ## 💻 Most Used Languages
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ramya-Ramadoss&layout=compact&theme=tokyonight)
