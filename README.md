@@ -182,10 +182,25 @@ https://www.linkedin.com/in/ramyaramadoss576/
 </p>
 
 ---
+## 💻 Most Used Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ramya-Ramadoss&layout=compact&theme=tokyonight)
+
+---
 ## 🏆 GitHub Trophies
 
+<p align="center">
 ![trophy](https://github-profile-trophy.vercel.app/?username=Ramya-Ramadoss&theme=tokyonight&row=1&column=7)
+</p>
 
+---
+
+## 🏅 Certifications
+
+- Deloitte Technology Virtual Experience
+- Wells Fargo Software Engineering Virtual Experience
+- AWS Academy Cloud Foundations
+- Oracle Cloud Infrastructure Foundations
 
 ---
 
