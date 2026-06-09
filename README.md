@@ -177,29 +177,16 @@ https://www.linkedin.com/in/ramyaramadoss576/
 ---
 ## 📊 GitHub Stats
 
-<p align="center">
+
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ramya-Ramadoss&theme=tokyonight" />
 </p>
-
----
-
-
-## 📊 GitHub Stats
-
-![Ramya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ramya-Ramadoss&show_icons=true&theme=tokyonight)
-
-
 ---
 
 ## 🔥 GitHub Streak
 
+<p align="center">
 ![GitHub Streak](https://streak-stats.demolab.com?user=Ramya-Ramadoss&theme=tokyonight)
-
----
-
-## 💻 Most Used Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ramya-Ramadoss&layout=compact&theme=tokyonight)
+</p>
 
 ---
 ## 🏅 Certifications
