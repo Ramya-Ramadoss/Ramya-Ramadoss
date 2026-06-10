@@ -32,6 +32,7 @@ Building practical AI systems, data-driven solutions, LLM applications, and inte
 
 - Python
 - SQL
+- MongoDB
 - Power BI
 - Machine Learning
 - Deep Learning
