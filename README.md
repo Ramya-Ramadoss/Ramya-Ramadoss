@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-AI • Machine Learning • Data Analytics • Intelligent Systems
+AI • Machine Learning • Data Analytics 
 </h3>
 
 <p align="center">
