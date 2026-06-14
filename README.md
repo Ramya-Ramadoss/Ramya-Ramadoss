@@ -44,6 +44,7 @@ Building practical AI systems, data-driven solutions, LLM applications, and inte
 🎯 Career Goal:
 
 Become an AI/ML Engineer and Data Analyst capable of building intelligent systems at scale.
+Enjoy life and live it to the fullest.
 
 ---
 
