@@ -28,6 +28,8 @@ Building practical AI systems, data-driven solutions, LLM applications, and inte
 
 🏆 Active participant in hackathons, technical projects, and innovation challenges
 
+🎓 Love volunteering and helping around to make a better change
+
 📚 Currently learning:
 
 - Python
