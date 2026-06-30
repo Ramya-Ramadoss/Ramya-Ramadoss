@@ -1,4 +1,4 @@
-<div align="center">
+<div align="right">
 
 ```text
 ██████╗  █████╗ ███╗   ███╗██╗   ██╗ █████╗
@@ -16,7 +16,7 @@
 ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝╚═╝  ╚═╝╚═════╝  ╚═════╝ ╚══════╝╚══════╝
 ```
 
-### AI/ML Engineer • Data Analyst • Full Stack Developer
+
 
 </div>                                                                                                                                                       
                                                                                                                                                               
