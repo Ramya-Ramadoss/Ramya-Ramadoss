@@ -208,14 +208,6 @@ https://www.linkedin.com/in/ramyaramadoss576/
 - Oracle Cloud Infrastructure Foundations
 
 ---
-## 🏅 Certifications
-
-- Deloitte Technology Virtual Experience
-- Wells Fargo Software Engineering Virtual Experience
-- AWS Academy Cloud Foundations
-- Oracle Cloud Infrastructure Foundations
-
----
 
 ## ✍️ Random Dev Quote
 
