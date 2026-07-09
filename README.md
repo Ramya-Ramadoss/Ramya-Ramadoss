@@ -124,6 +124,74 @@ I believe the best way to learn technology is by building.
 Every project is an opportunity to improve problem-solving skills, understand systems more deeply, and create solutions that deliver real value.
 
 ---
+
+## 🚀 Open To
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+### 💼 Opportunities
+
+✨ AI Engineer Internships
+
+✨ Machine Learning Internships
+
+✨ Software Engineering Roles
+
+✨ Research Collaborations
+
+✨ Open Source Programs
+
+✨ National & International Hackathons
+
+✨ AI Startup Opportunities
+
+✨ Technical Communities
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🧩 Areas of Interest
+
+🤖 Artificial Intelligence
+
+🧠 Machine Learning
+
+📊 Data Science & Analytics
+
+👁️ Computer Vision
+
+💬 Large Language Models (LLMs)
+
+⚡ Generative AI
+
+🛠️ MLOps
+
+☁️ Cloud & AI Infrastructure
+
+🔍 Retrieval-Augmented Generation (RAG)
+
+🚀 AI Agents & Automation
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# 💡 Engineering Philosophy
+
+> **Building intelligent products that solve real-world problems.**
+
+I believe great AI isn't just about training models—it's about engineering complete, reliable, and scalable systems. My focus is on combining modern AI with robust software engineering to create products that are practical, explainable, maintainable, and impactful.
+
+I strive to bridge research and production by building end-to-end AI solutions using **Generative AI**, **Machine Learning**, **Computer Vision**, **Data Engineering**, **Cloud**, and **MLOps**.
+
+---
 # 🌟 Featured Projects
 
 ## 📌 Employee Salary Prediction
