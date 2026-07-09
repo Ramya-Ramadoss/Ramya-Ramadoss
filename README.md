@@ -365,6 +365,10 @@ I strive to bridge research and production by building end-to-end AI solutions u
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=Ramya-Ramadoss&show_icons=true&theme=tokyonight&hide_border=true"/>
 
+</p>
+
+<p align="center">
+  
 <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Ramya-Ramadoss&theme=tokyonight&hide_border=true"/>
 
 </p>
