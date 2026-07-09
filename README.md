@@ -192,6 +192,176 @@ I believe great AI isn't just about training models—it's about engineering com
 I strive to bridge research and production by building end-to-end AI solutions using **Generative AI**, **Machine Learning**, **Computer Vision**, **Data Engineering**, **Cloud**, and **MLOps**.
 
 ---
+
+
+# 📊 Current Snapshot
+
+<table>
+<tr>
+<th width="35%">📌 Category</th>
+<th>🚀 Current Status</th>
+</tr>
+
+<tr>
+<td><b>🎓 Education</b></td>
+<td>B.Tech Computer Science Engineering — VIT Chennai</td>
+</tr>
+
+<tr>
+<td><b>🤖 Primary Domain</b></td>
+<td>Artificial Intelligence • Machine Learning</td>
+</tr>
+
+<tr>
+<td><b>💻 Secondary Domain</b></td>
+<td>Full Stack Development</td>
+</tr>
+
+<tr>
+<td><b>🧠 Current Focus</b></td>
+<td>LLM Engineering • RAG • AI Agents • MLOps</td>
+</tr>
+
+<tr>
+<td><b>🔬 Research Interest</b></td>
+<td>Computer Vision • Intelligent Systems • Applied AI</td>
+</tr>
+
+<tr>
+<td><b>⚡ Building</b></td>
+<td>Production-Ready AI Applications</td>
+</tr>
+
+<tr>
+<td><b>📚 Currently Learning</b></td>
+<td>Docker • Kubernetes • AWS • System Design</td>
+</tr>
+
+<tr>
+<td><b>🎯 Goal</b></td>
+<td>AI/ML Engineer • AI Research • Production AI Systems</td>
+</tr>
+
+</table>
+
+---
+
+# ⚙️ Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,java,cpp,c,javascript,typescript,html,css,react,nextjs,nodejs,express,fastapi,tensorflow,pytorch,opencv,mongodb,postgres,mysql,firebase,docker,kubernetes,aws,gcp,git,github,linux,vscode,figma&perline=10"/>
+
+</p>
+
+---
+
+# 🎯 Core Competencies
+
+<table>
+<tr>
+
+<td width="33%" valign="top">
+
+### 🤖 Artificial Intelligence
+
+- Machine Learning
+- Deep Learning
+- Computer Vision
+- Predictive Analytics
+- Model Optimization
+- Explainable AI
+
+</td>
+
+<td width="33%" valign="top">
+
+### ✨ Generative AI
+
+- Retrieval-Augmented Generation
+- Prompt Engineering
+- Vector Databases
+- Semantic Search
+- AI Agents
+- LLM Integration
+
+</td>
+
+<td width="33%" valign="top">
+
+### 💻 Software Engineering
+
+- REST APIs
+- Full Stack Development
+- Database Design
+- Responsive UI
+- Scalable Architecture
+- Clean Code
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# 🛣️ Current Learning Roadmap
+
+```text
+              AI / ML Engineer Roadmap
+
+           Python Programming
+                    │
+                    ▼
+            Data Structures
+                    │
+                    ▼
+             Machine Learning
+                    │
+                    ▼
+             Deep Learning
+                    │
+                    ▼
+            Computer Vision
+                    │
+                    ▼
+             Generative AI
+                    │
+                    ▼
+        Retrieval-Augmented Generation
+                    │
+                    ▼
+             Prompt Engineering
+                    │
+                    ▼
+             AI Agent Systems
+                    │
+                    ▼
+                  MLOps
+                    │
+                    ▼
+       Docker → Kubernetes → AWS
+                    │
+                    ▼
+          Production AI Deployment
+```
+
+---
+
+# 🎯 2026 Goals
+
+- ✅ Secure an AI/ML Internship
+- 🚀 Publish Research Projects
+- 🤝 Contribute to Open Source
+- 🏆 Win National Hackathons
+- 📚 Master MLOps & Cloud AI
+- 🌍 Build Production-Scale AI Systems
+
+---
+
+
+
+
 # 🌟 Featured Projects
 
 ## 📌 Employee Salary Prediction
