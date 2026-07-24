@@ -22,6 +22,10 @@ AI • Machine Learning • Data Analytics
 </h3>
 
 <p align="center">
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="500">
+</p>
+
+<p align="center">
 Building practical AI systems, data-driven solutions, LLM applications, and intelligent agents.
 </p>
 
