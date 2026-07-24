@@ -14,7 +14,7 @@
 
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=35&duration=1800&pause=800&color=38BDF8&center=true&vCenter=true&width=1000&height=80&lines=Hey+There!;This+is+Ramya+Ramadoss;" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=35&duration=1800&pause=800&color=38BDF8&center=true&vCenter=true&width=1000&height=80&lines=Hey+There!;This+is+Ramya+Ramadoss;Exploring+and+Learning;Passionate+about+Solutions;Building+real+world+Projects;Learning+AI+AR/VR+new+technologies;Computer+Science+student;Software+Developer " />
 </h1>
 
 
@@ -36,8 +36,7 @@ Building practical AI systems, data-driven solutions, LLM applications, and inte
 </p>
 
 ---
-<h1 align="left">🐧 Ramya Ramadoss | Software Developer</h1>
-
+<h1 align="left">RAMYA RAMADOSS | Software Developer</h1>
 
 # 🚀 About Me
 
