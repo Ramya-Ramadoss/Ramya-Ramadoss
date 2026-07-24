@@ -1,4 +1,3 @@
-<h1 align="left">🐧 Ramya Ramadoss | Software Developer</h1>
 
 <div align="center">
 
@@ -37,6 +36,8 @@ Building practical AI systems, data-driven solutions, LLM applications, and inte
 </p>
 
 ---
+<h1 align="left">🐧 Ramya Ramadoss | Software Developer</h1>
+
 
 # 🚀 About Me
 
