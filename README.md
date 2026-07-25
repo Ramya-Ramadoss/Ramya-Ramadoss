@@ -52,7 +52,6 @@ Building practical AI systems, data-driven solutions, LLM applications, and inte
 
 🎓 Love volunteering and helping around to make a better change
 
----
 
 # 📚 Currently learning:
 
