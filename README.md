@@ -54,7 +54,7 @@ Building practical AI systems, data-driven solutions, LLM applications, and inte
 
 ---
 
-📚 Currently learning:
+# 📚 Currently learning:
 
 - Python
 - SQL
