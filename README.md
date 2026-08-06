@@ -88,6 +88,8 @@ Enjoy life and live it to the fullest.
 - Learning LLM application development and agent-based systems
 - Contributing to impactful projects and research initiatives
 - Preparing for opportunities in AI/ML Engineering and Data Analytics
+- Finding internships and real time job oopurtunities
+
 
 ---
 ## 💭 My Approach
