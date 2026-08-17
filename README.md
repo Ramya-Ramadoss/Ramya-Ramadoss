@@ -23,7 +23,7 @@
 </p>
 
 <h3 align="center">
-AI • Machine Learning • Data Analytics 
+AI  • Data Science • Machine Learning • Data Analytics 
 </h3>
 
 
