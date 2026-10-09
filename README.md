@@ -63,6 +63,8 @@ Building practical AI systems, data-driven solutions, LLM applications, and inte
 - Deep Learning
 - LLM Engineering
 - Agentic AI
+- Quantum ML
+- Qiskit Labs
 
 🎯 Career Goal:
 
